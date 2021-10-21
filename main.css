@@ -1,0 +1,83 @@
+.body{
+    margin: 0px;
+}
+ /* .box{
+    
+    width: 465px;
+    height: 500px;
+    background-color: rgb(248, 247, 241);
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+
+
+div  h3{
+    padding-top: auto;
+   padding-right: 150px;
+   padding-left: 90px ;
+   padding-bottom: auto;
+}
+div p{
+    margin-top: auto;
+    margin-right:125px ;
+    margin-left: 90px;
+    margin-bottom: auto;
+}
+div a{
+    padding: 100px 20px 10px 250px;
+    display: block;
+}  */
+
+
+  /*.box{
+    width: 265px;
+    height: auto;
+    background-color: honeydew;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+div h1{
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+div p{
+    margin-top: 30px;
+    margin-right:45px ;
+    margin-left:20px ;
+    margin-bottom: 200px;
+}  */
+
+ .box{
+    width: 625px;
+    height: 1300px;
+    background-color: honeydew;   
+    margin-left: auto;
+    margin-right: auto;
+}
+div img{
+    margin-top:0px ;  
+    margin-bottom: 120px;
+}
+div h2{
+    padding-top: auto;
+    padding-right: 100px; ;
+    padding-left: 300px;
+    padding-bottom: auto;
+}
+div p{
+    padding: auto;
+    padding-right:300px ;
+    padding-left: 10px;
+    padding-bottom: auto;
+}
+div p h3{
+    margin-top: auto;
+    margin-right: 300px;
+    margin-left:300px;
+    margin-bottom: auto;
+} 
