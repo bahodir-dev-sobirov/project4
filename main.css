@@ -7,6 +7,11 @@
     margin: 0px;
 
 }
+.h1{
+    border: 3px solid black;
+    border-radius: 7px;
+    font-size: 3px;
+}
  /* .box{
     
     width: 465px;
